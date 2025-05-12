@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Maxime</h1>
 <h3 align="center">French Developer</h3>
 
-- 👨‍💻 See my projects on [https://maxime.social](https://maxime.social)
+- 👨‍💻 See my projects on [maxime.social](https://maxime.social)
 
 - 📫 Contact **bonnet.maxime54@gmail.com**
 
